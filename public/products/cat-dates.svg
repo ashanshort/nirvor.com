@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#FBF8F1"/>
+  <rect x="60" y="60" width="280" height="280" rx="28" fill="#7A3E1D"/>
+  <text x="200" y="215" font-size="44" text-anchor="middle" fill="#D4AF37" font-family="sans-serif" font-weight="bold">NIRVOR</text>
+  <text x="200" y="262" font-size="32" text-anchor="middle" fill="#FBF8F1" font-family="sans-serif">খেজুর</text>
+</svg>
